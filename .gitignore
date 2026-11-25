@@ -1,27 +1,8 @@
-# Environments
-.conda/
-.venv/
-
-# Jupyter
 .ipynb_checkpoints/
-
-# Python cache
 __pycache__/
 *.py[cod]
-
-# Secrets
-.env
-.env.*
-!.env.example
-
-# Data
-data/raw/*
-data/processed/*
-
-# Generated files
-reports/*
-models/*
-
-# Local operating system files
+*$py.class
+.vscode/
+.idea/
 .DS_Store
 Thumbs.db
